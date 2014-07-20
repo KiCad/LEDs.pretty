@@ -1,7 +1,7 @@
 (module LED_RGB_Getian_GT-P6PRGB4303 (layer F.Cu)
   (descr https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf)
   (tags "LED RGB ")
-  (fp_text reference D? (at 0 -5.4) (layer Cmts.User)
+  (fp_text reference D? (at 0 -5.4) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value LED_RGB_Getian_GT-P6PRGB4303 (at 0 5.45) (layer F.SilkS) hide
