@@ -1,4 +1,4 @@
-(module LED-5MM-3 (layer F.Cu) (tedit 53F17998)
+(module LED-5MM-3 (layer F.Cu) (tedit 53F179F2)
   (descr "3-lead LED 5mm - Lead pitch 100mil (2,54mm)")
   (tags "LED led 5mm 5MM 100mil 2,54mm 3-lead")
   (fp_text reference LED-5MM-3 (at 0 -3.81) (layer F.SilkS)
