@@ -36,9 +36,9 @@
   (pad 1 thru_hole circle (at 2.54 0) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 0) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -2.54 0) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model discret/leds/led5_vertical_verde.wrl
+  (model discret/leds/led5-3_vertical.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))
   )
 )
