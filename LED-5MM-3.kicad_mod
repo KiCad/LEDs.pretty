@@ -1,6 +1,6 @@
 (module LED-5MM-3 (layer F.Cu) (tedit 5538B3C3)
   (descr "3-lead LED 5mm - Lead pitch 100mil (2,54mm)")
-  (tags "LED led 5mm 5MM 100mil 2,54mm 3-lead")
+  (tags "LED led 5mm 5MM 100mil 2.54mm 3-lead")
   (fp_text reference REF** (at 2.54508 -3.91668) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
