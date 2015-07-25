@@ -1,6 +1,7 @@
 (module LED-L1T2_LUMILEDS (layer F.Cu) (tedit 55958278)
   (descr http://www.lumileds.com/uploads/438/DS133-pdf)
   (tags "LUMILEDS LUXEON TX L1T2 LED")
+  (attr smd)
   (fp_text reference REF** (at 0 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

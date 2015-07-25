@@ -1,6 +1,7 @@
 (module LED-XP-G_CREE (layer F.Cu) (tedit 5595825C)
   (descr http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf)
   (tags "LED XP-G CREE")
+  (attr smd)
   (fp_text reference REF** (at 0 2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
