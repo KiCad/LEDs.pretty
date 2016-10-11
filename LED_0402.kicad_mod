@@ -1,6 +1,6 @@
 (module LED_0402 (layer F.Cu) (tedit 57FBED5F)
-  (descr "LED 0603 smd package")
-  (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
+  (descr "LED 0402 smd package")
+  (tags "LED led 0402 SMD smd SMT smt smdled SMDLED smtled SMTLED")
   (attr smd)
   (fp_text reference REF** (at 0 -1.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -30,7 +30,7 @@
   (fp_line (start -1.5 -0.5) (end 1.5 -0.5) (layer F.CrtYd) (width 0.05))
   (pad 2 smd rect (at 0.65 0 180) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -0.65 0 180) (size 0.9 0.7) (layers F.Cu F.Paste F.Mask))
-  (model LEDs.3dshapes/LED_0603.wrl
+  (model LEDs.3dshapes/LED_0402.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
