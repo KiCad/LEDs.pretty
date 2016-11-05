@@ -25,9 +25,9 @@
   (fp_arc (start 2.286 0) (end 3.81 -1.524) (angle -90) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.254 1) (end -0.254 1.51) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.254 -1.51) (end -0.254 -1) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at 0 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 2.54 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at 5.08 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 0 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 2.54 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 5.08 0 180) (size 1.6764 1.6764) (drill 0.8128) (layers *.Cu *.Mask))
   (model LEDs.3dshapes/LED-5MM-3.wrl
     (at (xyz 0.1 0 0))
     (scale (xyz 4 4 4))
