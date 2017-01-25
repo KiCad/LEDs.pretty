@@ -1,4 +1,4 @@
-(module LED_0805_Line_Marking (layer F.Cu) (tedit 57FE93EC)
+(module LED_0805 (layer F.Cu) (tedit 57FE93EC)
   (descr "LED 0805 smd package")
   (tags "LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED")
   (attr smd)
