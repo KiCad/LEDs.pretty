@@ -63,7 +63,7 @@
   (pad 3 smd rect (at -0.61 1.57) (size 0.97 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.61 1.57) (size 0.97 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 0) (size 2.78 4.78) (layers F.Cu F.Mask))
-  (model LEDs.3dshapes\LED_CREE-XHP50_6V.wrl
+  (model ${KISYS3DMOD}/LEDs.3dshapes\LED_CREE-XHP50_6V.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
