@@ -1,5 +1,5 @@
 (module LED_Cree-XQ_HandSoldering (layer F.Cu) (tedit 5759EDBD)
-  (descr http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf)
+  (descr "LED Cree-XQ handsoldering pads http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf")
   (tags "LED Cree XQ")
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
