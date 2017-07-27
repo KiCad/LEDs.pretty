@@ -1,4 +1,4 @@
-(module LED_RGB_1210 (layer F.Cu) (tedit 59785105)
+(module LED_RGB_1210 (layer F.Cu) (tedit 5979AE99)
   (descr "RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN")
   (tags "LED 3227")
   (attr smd)
@@ -27,4 +27,9 @@
   (pad 2 smd rect (at -1.75 0.7 180) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.75 -0.7 180) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.75 0.7 180) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/LEDs.3dshapes/LED_RGB_1210.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
